@@ -6,4 +6,4 @@ const Account = () => (
     </div>
 );
 
-export default App; 
+export default Account; 

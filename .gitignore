@@ -26,3 +26,6 @@ yarn-error.log*
 *.der
 *.key
 *.pem
+
+# environment variables
+.env
